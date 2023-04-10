@@ -11,7 +11,7 @@ Durante o desenvolvimento houve alguns problemas que pude resolver facilmente.
 Segue abaixo imagens do site 
 
 <img src="https://user-images.githubusercontent.com/110792005/230984071-179ff144-08ae-4dfe-9578-92a951a62bd7.PNG">
-<img src="https://user-images.githubusercontent.com/110792005/230984065-016b560f-2d61-4fda-ba98-ab545a31188c.PNG">
-<img src="https://user-images.githubusercontent.com/110792005/230984072-8c7c3130-14a1-40ce-95f5-7422773847b1.PNG">
+<img src="https://user-images.githubusercontent.com/110792005/230984927-e12de452-7d24-4fc3-a93e-808ffd4c3b25.PNG">
+<img src="https://user-images.githubusercontent.com/110792005/230984923-f6247d0d-8d7e-4b45-96f3-77b8c717ed41.PNG">
 
 
