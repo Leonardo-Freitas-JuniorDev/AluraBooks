@@ -1,0 +1,36 @@
+
+@import url(/AluraBooks/styles/header.css);
+@import url(/AluraBooks/styles/banner.css);
+@import url(/AluraBooks/styles/carrossel.css);
+@import url(/AluraBooks/styles/topicos.css);
+@import url(/AluraBooks/styles/contato.css);
+@import url(/AluraBooks/styles/rodape.css);
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&display=swap');
+
+:root{
+    --azul:#002F52;
+    --cinza-rodape:#858585;
+    --preto:#000000;
+    --branco:#FFFFFF;
+    --laranja-titulo:#EB9B00;
+    --cor-rodape: #474646;
+    --fonte-principal: 'Poppins';
+    --cor-header:#FFFFFF;
+    --fonte-secundaria: 'Josefin Sans';
+    --cor-rodape: #F9F9F9;
+    --azul-degrade:linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --cor-de-fundo-carrossel: #EBECEE;
+    --cinza-rodape:#858585;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor-de-fundo-carrossel);
+}
+
+
