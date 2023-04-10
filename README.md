@@ -14,4 +14,8 @@ Segue abaixo imagens do site
 <img src="https://user-images.githubusercontent.com/110792005/230984927-e12de452-7d24-4fc3-a93e-808ffd4c3b25.PNG">
 <img src="https://user-images.githubusercontent.com/110792005/230984923-f6247d0d-8d7e-4b45-96f3-77b8c717ed41.PNG">
 
+Inclusive, este site é adaptado para todos os tipos de telas, desde 428px a 2560px para monitores maiores. Teste aí!!
+O layout acima é 1728px para desktops.
+
+
 
